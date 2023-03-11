@@ -1,0 +1,46 @@
+table{
+	border-collapse: collapse;
+	border: 1px solid rgb(80, 3, 3);
+}
+table{
+	border: 0px solid #faf7f7;
+	table-layout: fixed;
+	
+	
+}
+ table th {
+	font-weight: bold;
+	padding: 4px;
+	background-color: rgb(106, 219, 163);
+	
+}
+ 
+
+ table tbody tr:nth-child(even){
+	background: #757279;
+}
+#left1{
+	background-color: rgb(106, 219, 163); 	
+}
+#left2{
+	background-color: rgb(106, 219, 163);
+}
+#left3{
+	background-color: rgb(106, 219, 163);
+}
+
+#left4{
+	background-color: rgb(106, 219, 163);
+}
+#left5{
+	background-color: rgb(106, 219, 163);
+}
+#left6{
+	background-color: rgb(106, 219, 163);
+}
+#left7{
+	background-color: rgb(106, 219, 163);
+}
+#left8{
+	background-color: rgb(106, 219, 163);
+}
